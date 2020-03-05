@@ -11,6 +11,7 @@ Base_Dir = os.path.dirname(os.path.abspath(__file__))
 suite = unittest.TestSuite()
 suite.addTest(unittest.makeSuite(Test_login))
 suite.addTest(unittest.makeSuite(Test_DEP))
+suite.addTest(unittest.makeSuite(Test_Ihrm_Member))
 
 
 # suite = unittest.TestLoader().discover(Base_Dir+"/script/",pattern="test*.py")
