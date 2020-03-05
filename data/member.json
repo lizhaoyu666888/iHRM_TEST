@@ -1,0 +1,6 @@
+{
+  "add_member":{"case_name":"添加员工成功","username":"我是传奇00016","mobile":"18967294745","http_code": 200,"success": true,"code": 10000,"message": "操作成功"},
+  "get_member":{"case_name":"查询员工成功","http_code": 200,"success": true,"code": 10000,"message": "操作成功"},
+  "updata_member":{"case_name":"修改员工成功","new_name":"new-tom","http_code": 200,"success": true,"code": 10000,"message": "操作成功"},
+  "del_member":{"case_name":"删除员工成功","http_code": 200,"success": true,"code": 10000,"message": "操作成功"}
+}
